@@ -7,7 +7,9 @@ IMDb movie ratings by scrapping the website using BeautifulSoup and requests. ht
 
 
 Goal: 
-We have decided to delve into the world of Hollywood for our project and see what makes the movies industry tick with some Hypotheses. 
+
+We have decided to delve into the world of Hollywood for our project and see what makes the movies industry tick with some Hypotheses.
+
 A new movie company has approached us and they are interested in getting their first movie on the IMDB top 50 page for highest gross revenue in 2020
 
 
