@@ -12,6 +12,8 @@ We have decided to delve into the world of Hollywood for our project and see wha
 
 A new movie company has approached us and they are interested in getting their first movie on the IMDB top 50 page for highest gross revenue in 2020
 
+As Data Scientists we have some hypotheses about this new project and we would like to have some assumptions that are statistically significant and hope to guide the new movie production company in the right direction to make their first movie
+
 
  
 
