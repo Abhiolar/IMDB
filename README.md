@@ -1,5 +1,5 @@
 # Project---Module-3
-
+ALL NOTEBOOKS ARE BEING USED NOW (Unless "DATA VISUALIZATION")
 Data: 
 
 IMDb movie ratings by scrapping the website using BeautifulSoup and requests. https://www.imdb.com/ 
