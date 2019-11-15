@@ -1,5 +1,6 @@
 # Project---Module-3
-)
+PLEASE NOTE: The files to be evaluated are the ones mentioned at the bottom of this README
+
 Data: 
 
 - IMDb movie ratings by scrapping the website using BeautifulSoup and requests. https://www.imdb.com/ 
