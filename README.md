@@ -1,9 +1,10 @@
 # Project---Module-3
-ALL NOTEBOOKS ARE BEING USED NOW (Unless "DATA VISUALIZATION")
+)
 Data: 
 
-IMDb movie ratings by scrapping the website using BeautifulSoup and requests. https://www.imdb.com/ 
-
+- IMDb movie ratings by scrapping the website using BeautifulSoup and requests. https://www.imdb.com/ 
+- CSV for more movie data 
+- Inflation CSV to adjust prices 
 
 
 Goal: 
@@ -21,14 +22,18 @@ Hypotheses:
 
 1.Movies of Action genre generate more gross box office than Romance movies
 
-2.Movies with higher budget make more revenue in box office
+2.Movies of action genre need higher budget than Romance movies 
 
-3.High grossing movies have a higher IMDB rating
+3.Movies on 50s and 60s made different profit than movies nowadays (00s and 10s)
 
-4.Movies from 2010-2018 make a higher gross revenue than movies between 2000-2010
+4.Movies from 50s and 60s had different budget than movies nowadays
 
 
+Documents to evaluate:
 
+- WebScrapping IBDb.ipynb: scrapped the web and exported a CSV to not have to go through the process of scrapping again and again (it was too slow)
+- FINAL NOTEBOOK.ipynb
+- Final deck - non-technical presentation slides 
 
 
 
